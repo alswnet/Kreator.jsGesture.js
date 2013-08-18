@@ -1,0 +1,20 @@
+{
+  "name": "piatra",
+  "subdomain": "piatra",
+  "scripts": {
+    "start": "index.js"
+  },
+  "version": "0.0.0-36",
+  "engines": {
+    "node": "0.6.x"
+  },
+  "dependencies": {
+    "express": "*",
+    "request": "*",
+    "async": "*",
+    "node-native-zip": "*",
+    "jade": "*",
+    "less": "*",
+    "cheerio": "*"
+  }
+}
